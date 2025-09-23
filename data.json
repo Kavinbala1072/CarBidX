@@ -27,6 +27,16 @@
       "Customer_Pincode": "",
       "Customer_Phone_No": "9597720998",
       "role": "client"
+    },
+    {
+      "Customer_Name": "Sakthi",
+      "Customer_Email": "sakthivelsam0510@gmail.com",
+      "Customer_Password": "Sakthi@admin",
+      "ConfirmPassword": "Sakthi@admin",
+      "Customer_Address": "",
+      "Customer_Pincode": "",
+      "Customer_Phone_No": "9688660722",
+      "role": "client"
     }
   ]
 }
