@@ -293,57 +293,6 @@
         "loanOffer": "Save â¹35,000 in loan interest",
         "insuranceIncluded": true
       }
-    },
-    {
-      "id": 7,
-      "name": "Dummy Car",
-      "brand": "Dummy",
-      "price": "From Rs.25000",
-      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
-      "overview": {
-        "makeYear": "2001",
-        "registrationYear": "2001",
-        "fuelType": "Diesel",
-        "kmDriven": "25632K km",
-        "transmission": "CVT",
-        "owner": "kavin",
-        "insuranceValidity": "12",
-        "insuranceType": "Third Party",
-        "rto": "ERODE",
-        "location": "ERODE"
-      },
-      "report": {
-        "coreStructure": true,
-        "odometerTampered": true,
-        "flooded": true,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
-      },
-      "specs": {
-        "engine": "None",
-        "transmission": "CVT",
-        "mileage": "25 km/l",
-        "seating": "4-Seater",
-        "features": [
-          "Dummy COntent",
-          ""
-        ]
-      },
-      "finance": {
-        "actualPrice": "₹25000 Lakh",
-        "discountedPrice": "₹25000 Lakh",
-        "emiStarts": "",
-        "interest": "",
-        "loanOffer": "",
-        "insuranceIncluded": true
-      },
-      "description": "testing",
-      "images": [
-        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
-        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg"
-      ]
     }
   ]
 }
