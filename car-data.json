@@ -41,11 +41,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹5.25 Lakh",
-        "discountedPrice": "₹4.99 Lakh",
-        "emiStarts": "₹8,321/month",
+        "actualPrice": "â¹5.25 Lakh",
+        "discountedPrice": "â¹4.99 Lakh",
+        "emiStarts": "â¹8,321/month",
         "interest": "10.5%",
-        "loanOffer": "Save ₹10,500 in loan interest",
+        "loanOffer": "Save â¹10,500 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -90,11 +90,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹34.50 Lakh",
-        "discountedPrice": "₹32.99 Lakh",
-        "emiStarts": "₹52,321/month",
+        "actualPrice": "â¹34.50 Lakh",
+        "discountedPrice": "â¹32.99 Lakh",
+        "emiStarts": "â¹52,321/month",
         "interest": "9.5%",
-        "loanOffer": "Save ₹18,000 in loan interest",
+        "loanOffer": "Save â¹18,000 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -139,11 +139,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹11.50 Lakh",
-        "discountedPrice": "₹10.99 Lakh",
-        "emiStarts": "₹17,432/month",
+        "actualPrice": "â¹11.50 Lakh",
+        "discountedPrice": "â¹10.99 Lakh",
+        "emiStarts": "â¹17,432/month",
         "interest": "10.2%",
-        "loanOffer": "Save ₹9,500 in loan interest",
+        "loanOffer": "Save â¹9,500 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -188,11 +188,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹13.25 Lakh",
-        "discountedPrice": "₹12.50 Lakh",
-        "emiStarts": "₹19,750/month",
+        "actualPrice": "â¹13.25 Lakh",
+        "discountedPrice": "â¹12.50 Lakh",
+        "emiStarts": "â¹19,750/month",
         "interest": "10.1%",
-        "loanOffer": "Save ₹8,200 in loan interest",
+        "loanOffer": "Save â¹8,200 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -237,11 +237,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹57.00 Lakh",
-        "discountedPrice": "₹55.00 Lakh",
-        "emiStarts": "₹87,540/month",
+        "actualPrice": "â¹57.00 Lakh",
+        "discountedPrice": "â¹55.00 Lakh",
+        "emiStarts": "â¹87,540/month",
         "interest": "9.8%",
-        "loanOffer": "Save ₹25,000 in loan interest",
+        "loanOffer": "Save â¹25,000 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -286,11 +286,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹82.00 Lakh",
-        "discountedPrice": "₹80.00 Lakh",
-        "emiStarts": "₹1,25,450/month",
+        "actualPrice": "â¹82.00 Lakh",
+        "discountedPrice": "â¹80.00 Lakh",
+        "emiStarts": "â¹1,25,450/month",
         "interest": "9.2%",
-        "loanOffer": "Save ₹35,000 in loan interest",
+        "loanOffer": "Save â¹35,000 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -329,6 +329,57 @@
       "images": [
         "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif",
         "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Dummy Car",
+      "brand": "Dummy",
+      "price": "From Rs.25000",
+      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
+      "overview": {
+        "makeYear": "2001",
+        "registrationYear": "2001",
+        "fuelType": "Diesel",
+        "kmDriven": "25632K km",
+        "transmission": "CVT",
+        "owner": "kavin",
+        "insuranceValidity": "12",
+        "insuranceType": "Third Party",
+        "rto": "ERODE",
+        "location": "ERODE"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": true,
+        "flooded": true,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "None",
+        "transmission": "CVT",
+        "mileage": "25 km/l",
+        "seating": "4-Seater",
+        "features": [
+          "Dummy COntent",
+          ""
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹25000 Lakh",
+        "discountedPrice": "₹25000 Lakh",
+        "emiStarts": "",
+        "interest": "",
+        "loanOffer": "",
+        "insuranceIncluded": true
+      },
+      "description": "testing",
+      "images": [
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Nissan_Sylphy_B18.jpg"
       ]
     }
   ]
