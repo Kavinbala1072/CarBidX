@@ -17,6 +17,16 @@
       "Customer_Address": "456 Oak Ave",
       "Customer_Pincode": "54321",
       "Customer_Phone_No": "9123456780"
+    },
+    {
+      "Customer_Name": "KavinRaj",
+      "Customer_Email": "thalakavin8@gmail.com",
+      "Customer_Password": "Kavin1072",
+      "ConfirmPassword": "Kavin1072",
+      "Customer_Address": "",
+      "Customer_Pincode": "",
+      "Customer_Phone_No": "9597720998",
+      "role": "client"
     }
   ]
 }
