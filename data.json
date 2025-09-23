@@ -17,55 +17,6 @@
       "Customer_Address": "456 Oak Ave",
       "Customer_Pincode": "54321",
       "Customer_Phone_No": "9123456780"
-    },
-    {
-      "role": "client",
-      "Customer_Name": "Client Two",
-      "Customer_Email": "jane@example.com",
-      "Customer_Password": "jane456",
-      "Customer_Address": "789 Maple Rd",
-      "Customer_Pincode": "67890",
-      "Customer_Phone_No": "9876543210"
-    },
-    {
-      "Customer_Name": "Kavin",
-      "Customer_Email": "kavinbala8@gmail.com",
-      "Customer_Password": "9597720998",
-      "ConfirmPassword": "9597720998",
-      "Customer_Address": "",
-      "Customer_Pincode": "",
-      "Customer_Phone_No": "9597720998",
-      "role": "client"
-    },
-    {
-      "Customer_Name": "Kavin",
-      "Customer_Email": "kavinbala82@gmail.com",
-      "Customer_Password": "9597720998",
-      "ConfirmPassword": "9597720998",
-      "Customer_Address": "",
-      "Customer_Pincode": "",
-      "Customer_Phone_No": "9597720998",
-      "role": "client"
-    },
-    {
-      "Customer_Name": "Kavin",
-      "Customer_Email": "kavinbala@gmail.com",
-      "Customer_Password": "Kavin2000",
-      "ConfirmPassword": "Kavin2000",
-      "Customer_Address": "",
-      "Customer_Pincode": "",
-      "Customer_Phone_No": "9597720998",
-      "role": "client"
-    },
-    {
-      "Customer_Name": "Kavin",
-      "Customer_Email": "kavinbala85@gmail.com",
-      "Customer_Password": "9597720998",
-      "ConfirmPassword": "9597720998",
-      "Customer_Address": "",
-      "Customer_Pincode": "",
-      "Customer_Phone_No": "9597720998",
-      "role": "client"
     }
   ]
 }
