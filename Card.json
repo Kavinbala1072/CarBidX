@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Nissan Sylphy 1.6XE Comfort MT (14th Gen)",
+      "price": "From Rs.4,99,999",
+      "image": "https://your-image-url.com/nissan.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Toyota Fortuner",
+      "price": "From Rs.32,99,999",
+      "image": "https://your-image-url.com/fortuner.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hyundai Creta",
+      "price": "From Rs.10,99,999",
+      "image": "https://your-image-url.com/creta.jpg"
+    }
+  ]
+}
