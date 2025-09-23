@@ -293,6 +293,43 @@
         "loanOffer": "Save ₹35,000 in loan interest",
         "insuranceIncluded": true
       }
+    },
+    {
+      "name": "sfddsa",
+      "brand": "dfsfadf",
+      "model": "safadf",
+      "year": 2005,
+      "price": 8522,
+      "image1": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif",
+      "image2": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif",
+      "fuelType": "Diesel",
+      "kmDriven": 8225,
+      "transmission": "Manual",
+      "owner": "kavin",
+      "insuranceValidity": "12 jun",
+      "insuranceType": "Third Party",
+      "rto": "erode",
+      "location": "erode",
+      "engineSpec": "djfkhkajd",
+      "mileage": 465,
+      "seating": "5",
+      "features": [
+        "jgslsjg",
+        "iuhiu",
+        "ijhijn."
+      ],
+      "coreStructure": true,
+      "odometerTampered": true,
+      "flooded": true,
+      "engine": true,
+      "drivetrain": true,
+      "body": true,
+      "mechanical": true,
+      "description": "rjmmmmmmmmmmmmeijhpoit",
+      "images": [
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif",
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/BMW%20X5.avif"
+      ]
     }
   ]
 }
