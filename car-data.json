@@ -41,11 +41,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹5.25 Lakh",
-        "discountedPrice": "â¹4.99 Lakh",
-        "emiStarts": "â¹8,321/month",
+        "actualPrice": "Ã¢ÂÂ¹5.25 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹4.99 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹8,321/month",
         "interest": "10.5%",
-        "loanOffer": "Save â¹10,500 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹10,500 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -90,11 +90,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹34.50 Lakh",
-        "discountedPrice": "â¹32.99 Lakh",
-        "emiStarts": "â¹52,321/month",
+        "actualPrice": "Ã¢ÂÂ¹34.50 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹32.99 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹52,321/month",
         "interest": "9.5%",
-        "loanOffer": "Save â¹18,000 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹18,000 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -139,11 +139,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹11.50 Lakh",
-        "discountedPrice": "â¹10.99 Lakh",
-        "emiStarts": "â¹17,432/month",
+        "actualPrice": "Ã¢ÂÂ¹11.50 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹10.99 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹17,432/month",
         "interest": "10.2%",
-        "loanOffer": "Save â¹9,500 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹9,500 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -188,11 +188,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹13.25 Lakh",
-        "discountedPrice": "â¹12.50 Lakh",
-        "emiStarts": "â¹19,750/month",
+        "actualPrice": "Ã¢ÂÂ¹13.25 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹12.50 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹19,750/month",
         "interest": "10.1%",
-        "loanOffer": "Save â¹8,200 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹8,200 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -237,11 +237,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹57.00 Lakh",
-        "discountedPrice": "â¹55.00 Lakh",
-        "emiStarts": "â¹87,540/month",
+        "actualPrice": "Ã¢ÂÂ¹57.00 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹55.00 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹87,540/month",
         "interest": "9.8%",
-        "loanOffer": "Save â¹25,000 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹25,000 in loan interest",
         "insuranceIncluded": true
       }
     },
@@ -286,13 +286,64 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹82.00 Lakh",
-        "discountedPrice": "â¹80.00 Lakh",
-        "emiStarts": "â¹1,25,450/month",
+        "actualPrice": "Ã¢ÂÂ¹82.00 Lakh",
+        "discountedPrice": "Ã¢ÂÂ¹80.00 Lakh",
+        "emiStarts": "Ã¢ÂÂ¹1,25,450/month",
         "interest": "9.2%",
-        "loanOffer": "Save â¹35,000 in loan interest",
+        "loanOffer": "Save Ã¢ÂÂ¹35,000 in loan interest",
         "insuranceIncluded": true
       }
+    },
+    {
+      "id": 7,
+      "name": "Dummy",
+      "brand": "Dummy",
+      "price": "From Rs.100000",
+      "image": "https://appsgeyser.io/19136207/CarBidX.jpg",
+      "overview": {
+        "makeYear": "2001",
+        "registrationYear": "2001",
+        "fuelType": "Petrol",
+        "kmDriven": "25569K km",
+        "transmission": "Manual",
+        "owner": "Single owner",
+        "insuranceValidity": "12 Jan 2026",
+        "insuranceType": "Third Party",
+        "rto": "Erode",
+        "location": "Erode"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": true,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "None",
+        "transmission": "Manual",
+        "mileage": "21 km/l",
+        "seating": "4-Seater",
+        "features": [
+          "Dummy",
+          "testing"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹100000 Lakh",
+        "discountedPrice": "₹100000 Lakh",
+        "emiStarts": "",
+        "interest": "",
+        "loanOffer": "",
+        "insuranceIncluded": true
+      },
+      "description": "Testing",
+      "images": [
+        "https://appsgeyser.io/19136207/CarBidX.jpg",
+        "https://appsgeyser.io/19136207/CarBidX.jpg"
+      ]
     }
   ]
 }
