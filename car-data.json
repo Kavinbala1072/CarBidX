@@ -5,42 +5,108 @@
       "name": "Nissan Sylphy 1.6XE Comfort MT",
       "brand": "Nissan",
       "price": "From Rs.4,99,999",
-      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/assets/CarLogo1.png"
+      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/assets/CarLogo1.png",
+      "engine": "1.6L Petrol Engine",
+      "transmission": "Manual Transmission",
+      "mileage": "17 km/l",
+      "seating": "5-Seater Sedan",
+      "features": [
+        "ABS",
+        "Dual Airbags",
+        "Cruise Control",
+        "Reverse Camera",
+        "Infotainment System"
+      ]
     },
     {
       "id": 2,
       "name": "Toyota Fortuner",
       "brand": "Toyota",
       "price": "From Rs.32,99,999",
-      "image": "https://cdn.motor1.com/images/mgl/0AN2V/s1/2023-toyota-fortuner.jpg"
+      "image": "https://cdn.motor1.com/images/mgl/0AN2V/s1/2023-toyota-fortuner.jpg",
+      "engine": "2.7L Petrol / 2.8L Diesel",
+      "transmission": "Automatic / Manual",
+      "mileage": "12-15 km/l",
+      "seating": "7-Seater SUV",
+      "features": [
+        "ABS",
+        "7 Airbags",
+        "All-Wheel Drive",
+        "Touchscreen Infotainment",
+        "Parking Sensors"
+      ]
     },
     {
       "id": 3,
       "name": "Hyundai Creta",
       "brand": "Hyundai",
       "price": "From Rs.10,99,999",
-      "image": "https://cdn.motor1.com/images/mgl/7kqjz/s1/2023-hyundai-creta.jpg"
+      "image": "https://cdn.motor1.com/images/mgl/7kqjz/s1/2023-hyundai-creta.jpg",
+      "engine": "1.5L Petrol / Diesel",
+      "transmission": "Manual / Automatic",
+      "mileage": "16-21 km/l",
+      "seating": "5-Seater SUV",
+      "features": [
+        "ABS",
+        "6 Airbags",
+        "Sunroof",
+        "Wireless Charging",
+        "Smart Connect"
+      ]
     },
     {
       "id": 4,
       "name": "Honda Civic Sedan",
-      "brand": "Nissan",
+      "brand": "Honda",
       "price": "From Rs.12,50,000",
-      "image": "https://cdn.motor1.com/images/mgl/8bWKn/s1/2022-honda-civic-sedan.jpg"
+      "image": "https://cdn.motor1.com/images/mgl/8bWKn/s1/2022-honda-civic-sedan.jpg",
+      "engine": "1.8L Petrol",
+      "transmission": "Manual / CVT",
+      "mileage": "18 km/l",
+      "seating": "5-Seater Sedan",
+      "features": [
+        "ABS",
+        "Dual Airbags",
+        "Cruise Control",
+        "Rear Camera",
+        "Touchscreen Display"
+      ]
     },
     {
       "id": 5,
       "name": "Ford Mustang",
       "brand": "Ford",
       "price": "From Rs.55,00,000",
-      "image": "https://cdn.motor1.com/images/mgl/1Vp9x/s1/2023-ford-mustang.jpg"
+      "image": "https://cdn.motor1.com/images/mgl/1Vp9x/s1/2023-ford-mustang.jpg",
+      "engine": "5.0L V8 Petrol",
+      "transmission": "Manual / Automatic",
+      "mileage": "12 km/l",
+      "seating": "4-Seater Coupe",
+      "features": [
+        "ABS",
+        "Driver Assist",
+        "Performance Suspension",
+        "Premium Audio",
+        "Keyless Entry"
+      ]
     },
     {
       "id": 6,
       "name": "BMW X5",
       "brand": "BMW",
       "price": "From Rs.80,00,000",
-      "image": "https://cdn.motor1.com/images/mgl/3qZrA/s1/2023-bmw-x5.jpg"
+      "image": "https://cdn.motor1.com/images/mgl/3qZrA/s1/2023-bmw-x5.jpg",
+      "engine": "3.0L TwinPower Turbo",
+      "transmission": "8-Speed Automatic",
+      "mileage": "15 km/l",
+      "seating": "5-Seater SUV",
+      "features": [
+        "ABS",
+        "6 Airbags",
+        "Adaptive Cruise Control",
+        "Panoramic Sunroof",
+        "Advanced Infotainment"
+      ]
     }
   ]
 }
