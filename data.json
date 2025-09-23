@@ -1,12 +1,31 @@
 {
-    "name": "John",
-    "age": 25,
-    "city": "Sampleville",
-    "married": false,
-    "hobbies": ["reading", "traveling", "programming"],
-    "address": {
-      "street": "123 Main Street",
-      "city": "Sample City",
-      "postal_code": "12345"
+  "users": [
+    {
+      "role": "admin",
+      "Customer_Name": "Admin User",
+      "Customer_Email": "admin@example.com",
+      "Customer_Password": "admin123",
+      "Customer_Address": "Admin HQ",
+      "Customer_Pincode": "00000",
+      "Customer_Phone_No": "9999999999"
+    },
+    {
+      "role": "client",
+      "Customer_Name": "Client One",
+      "Customer_Email": "client@example.com",
+      "Customer_Password": "client123",
+      "Customer_Address": "456 Oak Ave",
+      "Customer_Pincode": "54321",
+      "Customer_Phone_No": "9123456780"
+    },
+    {
+      "role": "client",
+      "Customer_Name": "Client Two",
+      "Customer_Email": "jane@example.com",
+      "Customer_Password": "jane456",
+      "Customer_Address": "789 Maple Rd",
+      "Customer_Pincode": "67890",
+      "Customer_Phone_No": "9876543210"
     }
-  }
+  ]
+}
