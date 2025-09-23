@@ -5,18 +5,49 @@
       "name": "Nissan Sylphy 1.6XE Comfort MT",
       "brand": "Nissan",
       "price": "From Rs.4,99,999",
-      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/assets/CarLogo1.png",
-      "engine": "1.6L Petrol Engine",
-      "transmission": "Manual Transmission",
-      "mileage": "17 km/l",
-      "seating": "5-Seater Sedan",
-      "features": [
-        "ABS",
-        "Dual Airbags",
-        "Cruise Control",
-        "Reverse Camera",
-        "Infotainment System"
-      ]
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/assets/CarLogo1.png",
+      "overview": {
+        "makeYear": "2018",
+        "registrationYear": "2018",
+        "fuelType": "Petrol",
+        "kmDriven": "42K km",
+        "transmission": "Manual",
+        "owner": "1st Owner",
+        "insuranceValidity": "Jul 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "TN09",
+        "location": "Chennai"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.6L Petrol Engine",
+        "transmission": "Manual Transmission",
+        "mileage": "17 km/l",
+        "seating": "5-Seater Sedan",
+        "features": [
+          "ABS",
+          "Dual Airbags",
+          "Cruise Control",
+          "Reverse Camera",
+          "Infotainment System"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹5.25 Lakh",
+        "discountedPrice": "₹4.99 Lakh",
+        "emiStarts": "₹8,321/month",
+        "interest": "10.5%",
+        "loanOffer": "Save ₹10,500 in loan interest",
+        "insuranceIncluded": true
+      }
     },
     {
       "id": 2,
@@ -24,17 +55,48 @@
       "brand": "Toyota",
       "price": "From Rs.32,99,999",
       "image": "https://cdn.motor1.com/images/mgl/0AN2V/s1/2023-toyota-fortuner.jpg",
-      "engine": "2.7L Petrol / 2.8L Diesel",
-      "transmission": "Automatic / Manual",
-      "mileage": "12-15 km/l",
-      "seating": "7-Seater SUV",
-      "features": [
-        "ABS",
-        "7 Airbags",
-        "All-Wheel Drive",
-        "Touchscreen Infotainment",
-        "Parking Sensors"
-      ]
+      "overview": {
+        "makeYear": "2022",
+        "registrationYear": "2023",
+        "fuelType": "Diesel",
+        "kmDriven": "18K km",
+        "transmission": "Automatic",
+        "owner": "1st Owner",
+        "insuranceValidity": "Mar 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "MH12",
+        "location": "Mumbai"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "2.7L Petrol / 2.8L Diesel",
+        "transmission": "Automatic / Manual",
+        "mileage": "12-15 km/l",
+        "seating": "7-Seater SUV",
+        "features": [
+          "ABS",
+          "7 Airbags",
+          "All-Wheel Drive",
+          "Touchscreen Infotainment",
+          "Parking Sensors"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹34.50 Lakh",
+        "discountedPrice": "₹32.99 Lakh",
+        "emiStarts": "₹52,321/month",
+        "interest": "9.5%",
+        "loanOffer": "Save ₹18,000 in loan interest",
+        "insuranceIncluded": true
+      }
     },
     {
       "id": 3,
@@ -42,17 +104,48 @@
       "brand": "Hyundai",
       "price": "From Rs.10,99,999",
       "image": "https://cdn.motor1.com/images/mgl/7kqjz/s1/2023-hyundai-creta.jpg",
-      "engine": "1.5L Petrol / Diesel",
-      "transmission": "Manual / Automatic",
-      "mileage": "16-21 km/l",
-      "seating": "5-Seater SUV",
-      "features": [
-        "ABS",
-        "6 Airbags",
-        "Sunroof",
-        "Wireless Charging",
-        "Smart Connect"
-      ]
+      "overview": {
+        "makeYear": "2021",
+        "registrationYear": "2021",
+        "fuelType": "Petrol",
+        "kmDriven": "36K km",
+        "transmission": "Manual",
+        "owner": "2nd Owner",
+        "insuranceValidity": "Sep 2025",
+        "insuranceType": "Third Party",
+        "rto": "KA05",
+        "location": "Bangalore"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.5L Petrol / Diesel",
+        "transmission": "Manual / Automatic",
+        "mileage": "16-21 km/l",
+        "seating": "5-Seater SUV",
+        "features": [
+          "ABS",
+          "6 Airbags",
+          "Sunroof",
+          "Wireless Charging",
+          "Smart Connect"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹11.50 Lakh",
+        "discountedPrice": "₹10.99 Lakh",
+        "emiStarts": "₹17,432/month",
+        "interest": "10.2%",
+        "loanOffer": "Save ₹9,500 in loan interest",
+        "insuranceIncluded": true
+      }
     },
     {
       "id": 4,
@@ -60,17 +153,48 @@
       "brand": "Honda",
       "price": "From Rs.12,50,000",
       "image": "https://cdn.motor1.com/images/mgl/8bWKn/s1/2022-honda-civic-sedan.jpg",
-      "engine": "1.8L Petrol",
-      "transmission": "Manual / CVT",
-      "mileage": "18 km/l",
-      "seating": "5-Seater Sedan",
-      "features": [
-        "ABS",
-        "Dual Airbags",
-        "Cruise Control",
-        "Rear Camera",
-        "Touchscreen Display"
-      ]
+      "overview": {
+        "makeYear": "2020",
+        "registrationYear": "2021",
+        "fuelType": "Petrol",
+        "kmDriven": "30K km",
+        "transmission": "CVT",
+        "owner": "1st Owner",
+        "insuranceValidity": "Dec 2025",
+        "insuranceType": "Comprehensive",
+        "rto": "TN11",
+        "location": "Chennai"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.8L Petrol",
+        "transmission": "Manual / CVT",
+        "mileage": "18 km/l",
+        "seating": "5-Seater Sedan",
+        "features": [
+          "ABS",
+          "Dual Airbags",
+          "Cruise Control",
+          "Rear Camera",
+          "Touchscreen Display"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹13.25 Lakh",
+        "discountedPrice": "₹12.50 Lakh",
+        "emiStarts": "₹19,750/month",
+        "interest": "10.1%",
+        "loanOffer": "Save ₹8,200 in loan interest",
+        "insuranceIncluded": true
+      }
     },
     {
       "id": 5,
@@ -78,17 +202,48 @@
       "brand": "Ford",
       "price": "From Rs.55,00,000",
       "image": "https://cdn.motor1.com/images/mgl/1Vp9x/s1/2023-ford-mustang.jpg",
-      "engine": "5.0L V8 Petrol",
-      "transmission": "Manual / Automatic",
-      "mileage": "12 km/l",
-      "seating": "4-Seater Coupe",
-      "features": [
-        "ABS",
-        "Driver Assist",
-        "Performance Suspension",
-        "Premium Audio",
-        "Keyless Entry"
-      ]
+      "overview": {
+        "makeYear": "2019",
+        "registrationYear": "2019",
+        "fuelType": "Petrol",
+        "kmDriven": "22K km",
+        "transmission": "Automatic",
+        "owner": "1st Owner",
+        "insuranceValidity": "Aug 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "MH01",
+        "location": "Mumbai"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "5.0L V8 Petrol",
+        "transmission": "Manual / Automatic",
+        "mileage": "12 km/l",
+        "seating": "4-Seater Coupe",
+        "features": [
+          "ABS",
+          "Driver Assist",
+          "Performance Suspension",
+          "Premium Audio",
+          "Keyless Entry"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹57.00 Lakh",
+        "discountedPrice": "₹55.00 Lakh",
+        "emiStarts": "₹87,540/month",
+        "interest": "9.8%",
+        "loanOffer": "Save ₹25,000 in loan interest",
+        "insuranceIncluded": true
+      }
     },
     {
       "id": 6,
@@ -96,17 +251,48 @@
       "brand": "BMW",
       "price": "From Rs.80,00,000",
       "image": "https://cdn.motor1.com/images/mgl/3qZrA/s1/2023-bmw-x5.jpg",
-      "engine": "3.0L TwinPower Turbo",
-      "transmission": "8-Speed Automatic",
-      "mileage": "15 km/l",
-      "seating": "5-Seater SUV",
-      "features": [
-        "ABS",
-        "6 Airbags",
-        "Adaptive Cruise Control",
-        "Panoramic Sunroof",
-        "Advanced Infotainment"
-      ]
+      "overview": {
+        "makeYear": "2023",
+        "registrationYear": "2024",
+        "fuelType": "Diesel",
+        "kmDriven": "15K km",
+        "transmission": "Automatic",
+        "owner": "1st Owner",
+        "insuranceValidity": "Aug 2027",
+        "insuranceType": "Comprehensive",
+        "rto": "DL04",
+        "location": "Delhi"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "3.0L TwinPower Turbo",
+        "transmission": "8-Speed Automatic",
+        "mileage": "15 km/l",
+        "seating": "5-Seater SUV",
+        "features": [
+          "ABS",
+          "6 Airbags",
+          "Adaptive Cruise Control",
+          "Panoramic Sunroof",
+          "Advanced Infotainment"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹82.00 Lakh",
+        "discountedPrice": "₹80.00 Lakh",
+        "emiStarts": "₹1,25,450/month",
+        "interest": "9.2%",
+        "loanOffer": "Save ₹35,000 in loan interest",
+        "insuranceIncluded": true
+      }
     }
   ]
 }
