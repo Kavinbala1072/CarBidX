@@ -20,19 +20,19 @@
     },
     {
       "id":4 ,
-      "name": "Nissan Sylphy 1.6XE Comfort MT (14th Gen)",
+      "name": "Nissan Sylphy 1.6XE",
       "price": "From Rs.4,99,999",
       "image": "https://kiwicar.en.made-in-china.com/product/xmIpisvugVRy/China-Used-Nissan-Auto-Sylphy-1-6L-Family-Sedan-Gasoline-Driving-New-Cars-Hybrid-Electric-Cars.html"
     },
     {
       "id": 5,
-      "name": "Toyota Fortuner",
+      "name": "Toyota Fortuner V2",
       "price": "From Rs.32,99,999",
       "image": "https://your-image-url.com/fortuner.jpg"
     },
     {
       "id": 6,
-      "name": "Hyundai Creta",
+      "name": "Hyundai Creta New",
       "price": "From Rs.10,99,999",
       "image": "https://your-image-url.com/creta.jpg"
     }
