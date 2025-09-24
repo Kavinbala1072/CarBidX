@@ -2,7 +2,7 @@
   "users": [
     {
       "role": "admin",
-      "Customer_Name": "ADMIN",
+      "Customer_Name": "Admin - CarBidX",
       "Customer_Email": "admin@example.com",
       "Customer_Password": "admin123",
       "Customer_Address": "Admin HQ",
