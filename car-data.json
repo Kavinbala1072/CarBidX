@@ -1,5 +1,55 @@
 {
   "cars": [
-      
+    {
+      "id": 1,
+      "name": "Dummy Car",
+      "brand": "Dummy",
+      "price": "From Rs.150000",
+      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg",
+      "overview": {
+        "makeYear": "2012",
+        "registrationYear": "2012",
+        "fuelType": "Diesel",
+        "kmDriven": "12000K km",
+        "transmission": "Manual",
+        "owner": "Single",
+        "insuranceValidity": "12 jun",
+        "insuranceType": "Comprehensive",
+        "rto": "Erode",
+        "location": "Erode"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": true,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "None",
+        "transmission": "Manual",
+        "mileage": "20 km/l",
+        "seating": "4-Seater",
+        "features": [
+          "Testing",
+          "Testing1"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹150000 Lakh",
+        "discountedPrice": "₹150000 Lakh",
+        "emiStarts": "",
+        "interest": "",
+        "loanOffer": "",
+        "insuranceIncluded": true
+      },
+      "description": "transmission: Automatic",
+      "images": [
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg",
+        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg"
+      ]
+    }
   ]
 }
