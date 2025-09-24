@@ -2,25 +2,25 @@
   "cars": [
     {
       "id": 1,
-      "name": "Dummy Car",
-      "brand": "Dummy",
-      "price": "From Rs.150000",
-      "image": "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg",
+      "name": "Fortuner X",
+      "brand": "Toyota",
+      "price": "From Rs. 25,00,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
       "overview": {
-        "makeYear": "2012",
-        "registrationYear": "2012",
+        "makeYear": "2019",
+        "registrationYear": "2019",
         "fuelType": "Diesel",
-        "kmDriven": "12000K km",
+        "kmDriven": "45000 km",
         "transmission": "Manual",
         "owner": "Single",
-        "insuranceValidity": "12 jun",
+        "insuranceValidity": "12 Dec 2025",
         "insuranceType": "Comprehensive",
-        "rto": "Erode",
-        "location": "Erode"
+        "rto": "Mumbai",
+        "location": "Mumbai"
       },
       "report": {
         "coreStructure": true,
-        "odometerTampered": true,
+        "odometerTampered": false,
         "flooded": false,
         "engine": true,
         "drivetrain": true,
@@ -28,27 +28,495 @@
         "mechanical": true
       },
       "specs": {
-        "engine": "None",
+        "engine": "2.8L Diesel",
         "transmission": "Manual",
-        "mileage": "20 km/l",
-        "seating": "4-Seater",
+        "mileage": "14 km/l",
+        "seating": "7-Seater",
         "features": [
-          "Testing",
-          "Testing1"
+          "Sunroof",
+          "Bluetooth Connectivity",
+          "Backup Camera"
         ]
       },
       "finance": {
-        "actualPrice": "₹150000 Lakh",
-        "discountedPrice": "₹150000 Lakh",
-        "emiStarts": "",
-        "interest": "",
-        "loanOffer": "",
+        "actualPrice": "₹25,00,000",
+        "discountedPrice": "₹23,50,000",
+        "emiStarts": "₹55,000/month",
+        "interest": "9.5%",
+        "loanOffer": "Available",
         "insuranceIncluded": true
       },
-      "description": "transmission: Automatic",
+      "description": "Excellent condition with full service history.",
       "images": [
-        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg",
-        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image/Fortuner.jpg"
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner2.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Swift ZXI",
+      "brand": "Maruti Suzuki",
+      "price": "From Rs. 7,00,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
+      "overview": {
+        "makeYear": "2018",
+        "registrationYear": "2018",
+        "fuelType": "Petrol",
+        "kmDriven": "35000 km",
+        "transmission": "Manual",
+        "owner": "First",
+        "insuranceValidity": "30 Jan 2025",
+        "insuranceType": "Third Party",
+        "rto": "Delhi",
+        "location": "Delhi"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "mileage": "21 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "Power Windows",
+          "Central Locking",
+          "Keyless Entry"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹7,00,000",
+        "discountedPrice": "₹6,50,000",
+        "emiStarts": "₹15,000/month",
+        "interest": "10%",
+        "loanOffer": "Available",
+        "insuranceIncluded": false
+      },
+      "description": "Smooth ride, well maintained petrol car.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "City ZX",
+      "brand": "Honda",
+      "price": "From Rs. 11,00,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City.jpg",
+      "overview": {
+        "makeYear": "2020",
+        "registrationYear": "2020",
+        "fuelType": "Petrol",
+        "kmDriven": "18000 km",
+        "transmission": "Automatic",
+        "owner": "Single",
+        "insuranceValidity": "15 Aug 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "Bangalore",
+        "location": "Bangalore"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.5L Petrol",
+        "transmission": "Automatic",
+        "mileage": "17 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "Touchscreen Display",
+          "Cruise Control",
+          "Rear Parking Sensors"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹11,00,000",
+        "discountedPrice": "₹10,50,000",
+        "emiStarts": "₹27,000/month",
+        "interest": "8.5%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Low mileage, automatic with premium features.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City2.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Creta SX",
+      "brand": "Hyundai",
+      "price": "From Rs. 14,50,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta.jpg",
+      "overview": {
+        "makeYear": "2017",
+        "registrationYear": "2017",
+        "fuelType": "Diesel",
+        "kmDriven": "60000 km",
+        "transmission": "Manual",
+        "owner": "Second",
+        "insuranceValidity": "10 Nov 2024",
+        "insuranceType": "Comprehensive",
+        "rto": "Chennai",
+        "location": "Chennai"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.6L Diesel",
+        "transmission": "Manual",
+        "mileage": "19 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "LED Headlamps",
+          "Alloy Wheels",
+          "Android Auto"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹14,50,000",
+        "discountedPrice": "₹13,80,000",
+        "emiStarts": "₹35,000/month",
+        "interest": "9%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Reliable SUV with comfortable seating.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Baleno RS",
+      "brand": "Maruti Suzuki",
+      "price": "From Rs. 8,50,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Baleno.jpg",
+      "overview": {
+        "makeYear": "2019",
+        "registrationYear": "2019",
+        "fuelType": "Petrol",
+        "kmDriven": "30000 km",
+        "transmission": "Manual",
+        "owner": "Single",
+        "insuranceValidity": "05 Jul 2025",
+        "insuranceType": "Third Party",
+        "rto": "Pune",
+        "location": "Pune"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "mileage": "22 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "Touchscreen Infotainment",
+          "Keyless Start",
+          "Automatic Climate Control"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹8,50,000",
+        "discountedPrice": "₹8,00,000",
+        "emiStarts": "₹18,000/month",
+        "interest": "10%",
+        "loanOffer": "Available",
+        "insuranceIncluded": false
+      },
+      "description": "Sporty hatchback with great mileage.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Baleno.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Baleno2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "EcoSport Titanium",
+      "brand": "Ford",
+      "price": "From Rs. 10,00,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/EcoSport.jpg",
+      "overview": {
+        "makeYear": "2016",
+        "registrationYear": "2016",
+        "fuelType": "Diesel",
+        "kmDriven": "55000 km",
+        "transmission": "Manual",
+        "owner": "Second",
+        "insuranceValidity": "20 Oct 2024",
+        "insuranceType": "Comprehensive",
+        "rto": "Kolkata",
+        "location": "Kolkata"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.5L Diesel",
+        "transmission": "Manual",
+        "mileage": "18 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "Fog Lamps",
+          "Rear Defogger",
+          "Bluetooth"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹10,00,000",
+        "discountedPrice": "₹9,50,000",
+        "emiStarts": "₹23,000/month",
+        "interest": "9.8%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Compact SUV, ideal for city and highway drives.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/EcoSport.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Altroz Premium",
+      "brand": "Tata",
+      "price": "From Rs. 7,50,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Altroz.jpg",
+      "overview": {
+        "makeYear": "2020",
+        "registrationYear": "2020",
+        "fuelType": "Petrol",
+        "kmDriven": "15000 km",
+        "transmission": "Manual",
+        "owner": "Single",
+        "insuranceValidity": "12 Dec 2025",
+        "insuranceType": "Comprehensive",
+        "rto": "Hyderabad",
+        "location": "Hyderabad"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "mileage": "19 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "LED DRLs",
+          "Touchscreen Display",
+          "Rear Camera"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹7,50,000",
+        "discountedPrice": "₹7,00,000",
+        "emiStarts": "₹16,000/month",
+        "interest": "9%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Stylish hatchback with modern features.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Altroz.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "XUV500 W8",
+      "brand": "Mahindra",
+      "price": "From Rs. 17,00,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500.jpg",
+      "overview": {
+        "makeYear": "2018",
+        "registrationYear": "2018",
+        "fuelType": "Diesel",
+        "kmDriven": "48000 km",
+        "transmission": "Manual",
+        "owner": "First",
+        "insuranceValidity": "30 Sep 2025",
+        "insuranceType": "Comprehensive",
+        "rto": "Ahmedabad",
+        "location": "Ahmedabad"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "2.2L Diesel",
+        "transmission": "Manual",
+        "mileage": "16 km/l",
+        "seating": "7-Seater",
+        "features": [
+          "Cruise Control",
+          "Leather Upholstery",
+          "Alloy Wheels"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹17,00,000",
+        "discountedPrice": "₹16,20,000",
+        "emiStarts": "₹40,000/month",
+        "interest": "9.2%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Spacious SUV with strong performance.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500_2.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Nexon XMA",
+      "brand": "Tata",
+      "price": "From Rs. 8,20,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nexon.jpg",
+      "overview": {
+        "makeYear": "2021",
+        "registrationYear": "2021",
+        "fuelType": "Petrol",
+        "kmDriven": "10000 km",
+        "transmission": "Automatic",
+        "owner": "Single",
+        "insuranceValidity": "01 Jan 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "Coimbatore",
+        "location": "Coimbatore"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.2L Petrol Turbo",
+        "transmission": "Automatic",
+        "mileage": "18 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "Touchscreen Display",
+          "Automatic Climate Control",
+          "Safety Assist"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹8,20,000",
+        "discountedPrice": "₹7,90,000",
+        "emiStarts": "₹18,500/month",
+        "interest": "8.9%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Compact SUV with modern features and safety.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nexon.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Verna SX",
+      "brand": "Hyundai",
+      "price": "From Rs. 9,50,000",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
+      "overview": {
+        "makeYear": "2019",
+        "registrationYear": "2019",
+        "fuelType": "Diesel",
+        "kmDriven": "35000 km",
+        "transmission": "Manual",
+        "owner": "Second",
+        "insuranceValidity": "15 Dec 2024",
+        "insuranceType": "Comprehensive",
+        "rto": "Nagpur",
+        "location": "Nagpur"
+      },
+      "report": {
+        "coreStructure": true,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": true,
+        "drivetrain": true,
+        "body": true,
+        "mechanical": true
+      },
+      "specs": {
+        "engine": "1.6L Diesel",
+        "transmission": "Manual",
+        "mileage": "20 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "LED Headlamps",
+          "Push Button Start",
+          "Rear Parking Camera"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹9,50,000",
+        "discountedPrice": "₹9,00,000",
+        "emiStarts": "₹22,000/month",
+        "interest": "9%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Smooth handling diesel sedan with safety features.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna2.jpg"
       ]
     }
   ]
