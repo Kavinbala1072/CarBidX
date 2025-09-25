@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "role": "admin",
       "Customer_Name": "Admin - carbidx",
       "Customer_Email": "admin@example.com",
-      "Customer_Password": "admin123",
+      "Customer_Phone_No": "9999999999",
       "Customer_Address": "Admin HQ",
       "Customer_Pincode": "00000",
-      "Customer_Phone_No": "9999999999"
+      "role": "admin",
+      "Customer_Password": "admin123"
     },
     {
       "role": "client",
