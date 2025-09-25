@@ -2,7 +2,7 @@
   "users": [
     {
       "role": "admin",
-      "Customer_Name": "Admin",
+      "Customer_Name": "Admin - ",
       "Customer_Email": "admin@example.com",
       "Customer_Password": "admin123",
       "Customer_Address": "Admin HQ",
