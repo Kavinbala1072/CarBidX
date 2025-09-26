@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Fortuner X",
       "brand": "Toyota",
-      "price": "From Rs.2500000",
+      "price": "From Rs.25 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
       "isActive": false,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Diesel",
-        "kmDriven": "45000K km",
+        "kmDriven": "45K km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "12 Dec 2025",
@@ -40,11 +40,11 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹2500000 Lakh",
-        "discountedPrice": "₹2500000 Lakh",
-        "emiStarts": "",
-        "interest": "",
-        "loanOffer": "",
+        "actualPrice": "₹25.0 Lakh",
+        "discountedPrice": "₹25.0 Lakh",
+        "emiStarts": "₹55,000/month",
+        "interest": "10.0%",
+        "loanOffer": "Available",
         "insuranceIncluded": true
       },
       "description": "Excellent condition with full service history.",
@@ -52,20 +52,21 @@
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
       ],
-      "model": "231",
+      "model": "Fortuner 231",
       "isSold": true
     },
     {
       "id": 2,
       "name": "Swift ZXI",
       "brand": "Maruti Suzuki",
-      "price": "From Rs. 7,00,000",
+      "price": "From Rs. 6.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2018",
         "registrationYear": "2018",
         "fuelType": "Petrol",
-        "kmDriven": "35000 km",
+        "kmDriven": "35K km",
         "transmission": "Manual",
         "owner": "First",
         "insuranceValidity": "30 Jan 2025",
@@ -74,13 +75,13 @@
         "location": "Delhi"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.2L Petrol",
@@ -94,10 +95,10 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹7,00,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹6,50,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹15,000/month",
-        "interest": "10%",
+        "actualPrice": "₹7.0 Lakh",
+        "discountedPrice": "₹6.5 Lakh",
+        "emiStarts": "₹15,000/month",
+        "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
       },
@@ -105,19 +106,22 @@
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift2.jpg"
-      ]
+      ],
+      "model": "ZXI",
+      "isSold": false
     },
     {
       "id": 3,
       "name": "City ZX",
       "brand": "Honda",
-      "price": "From Rs. 11,00,000",
+      "price": "From Rs. 10.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Honda%20Civic%20Sedan.jfif",
+      "isActive": true,
       "overview": {
         "makeYear": "2020",
         "registrationYear": "2020",
         "fuelType": "Petrol",
-        "kmDriven": "18000 km",
+        "kmDriven": "18K km",
         "transmission": "Automatic",
         "owner": "Single",
         "insuranceValidity": "15 Aug 2026",
@@ -126,13 +130,13 @@
         "location": "Bangalore"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.5L Petrol",
@@ -146,9 +150,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹11,00,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹10,50,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹27,000/month",
+        "actualPrice": "₹11.0 Lakh",
+        "discountedPrice": "₹10.5 Lakh",
+        "emiStarts": "₹27,000/month",
         "interest": "8.5%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -158,19 +162,22 @@
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Honda%20Civic%20Sedan.jfif",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City2.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City3.jpg"
-      ]
+      ],
+      "model": "ZX",
+      "isSold": false
     },
     {
       "id": 4,
       "name": "Creta SX",
       "brand": "Hyundai",
-      "price": "From Rs. 14,50,000",
+      "price": "From Rs. 13.8 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Hyundai Creta.png",
+      "isActive": true,
       "overview": {
         "makeYear": "2017",
         "registrationYear": "2017",
         "fuelType": "Diesel",
-        "kmDriven": "60000 km",
+        "kmDriven": "60K km",
         "transmission": "Manual",
         "owner": "Second",
         "insuranceValidity": "10 Nov 2024",
@@ -179,13 +186,13 @@
         "location": "Chennai"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.6L Diesel",
@@ -199,10 +206,10 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹14,50,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹13,80,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹35,000/month",
-        "interest": "9%",
+        "actualPrice": "₹14.5 Lakh",
+        "discountedPrice": "₹13.8 Lakh",
+        "emiStarts": "₹35,000/month",
+        "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
       },
@@ -210,19 +217,22 @@
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Hyundai Creta.png",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta2.jpg"
-      ]
+      ],
+      "model": "SX",
+      "isSold": false
     },
     {
       "id": 5,
       "name": "Baleno RS",
       "brand": "Maruti Suzuki",
-      "price": "From Rs. 8,50,000",
+      "price": "From Rs. 8.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Petrol",
-        "kmDriven": "30000 km",
+        "kmDriven": "30K km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "05 Jul 2025",
@@ -231,13 +241,13 @@
         "location": "Pune"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.2L Petrol",
@@ -251,30 +261,33 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹8,50,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹8,00,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹18,000/month",
-        "interest": "10%",
+        "actualPrice": "₹8.5 Lakh",
+        "discountedPrice": "₹8.0 Lakh",
+        "emiStarts": "₹18,000/month",
+        "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
       },
       "description": "Sporty hatchback with great mileage.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
-        "https://github.com/Kavinbala1072/CarBidX/blob/main/Cars%20Image%2FNissan_Sylphy_B18.jpg"
-      ]
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nissan_Sylphy_B18.jpg"
+      ],
+      "model": "RS",
+      "isSold": false
     },
     {
       "id": 6,
       "name": "EcoSport Titanium",
       "brand": "Ford",
-      "price": "From Rs. 10,00,000",
+      "price": "From Rs. 9.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/EcoSport.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2016",
         "registrationYear": "2016",
         "fuelType": "Diesel",
-        "kmDriven": "55000 km",
+        "kmDriven": "55K km",
         "transmission": "Manual",
         "owner": "Second",
         "insuranceValidity": "20 Oct 2024",
@@ -283,13 +296,13 @@
         "location": "Kolkata"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.5L Diesel",
@@ -303,9 +316,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹10,00,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹9,50,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹23,000/month",
+        "actualPrice": "₹10.0 Lakh",
+        "discountedPrice": "₹9.5 Lakh",
+        "emiStarts": "₹23,000/month",
         "interest": "9.8%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -313,19 +326,22 @@
       "description": "Compact SUV, ideal for city and highway drives.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/EcoSport.jpg"
-      ]
+      ],
+      "model": "Titanium",
+      "isSold": false
     },
     {
       "id": 7,
       "name": "Altroz Premium",
       "brand": "Tata",
-      "price": "From Rs. 7,50,000",
+      "price": "From Rs. 7.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Altroz.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2020",
         "registrationYear": "2020",
         "fuelType": "Petrol",
-        "kmDriven": "15000 km",
+        "kmDriven": "15K km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "12 Dec 2025",
@@ -334,13 +350,13 @@
         "location": "Hyderabad"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.2L Petrol",
@@ -354,29 +370,32 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹7,50,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹7,00,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹16,000/month",
-        "interest": "9%",
+        "actualPrice": "₹7.5 Lakh",
+        "discountedPrice": "₹7.0 Lakh",
+        "emiStarts": "₹16,000/month",
+        "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
       },
       "description": "Stylish hatchback with modern features.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Altroz.jpg"
-      ]
+      ],
+      "model": "Premium",
+      "isSold": false
     },
     {
       "id": 8,
       "name": "XUV500 W8",
       "brand": "Mahindra",
-      "price": "From Rs. 17,00,000",
+      "price": "From Rs. 16.2 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2018",
         "registrationYear": "2018",
         "fuelType": "Diesel",
-        "kmDriven": "48000 km",
+        "kmDriven": "48K km",
         "transmission": "Manual",
         "owner": "First",
         "insuranceValidity": "30 Sep 2025",
@@ -385,13 +404,13 @@
         "location": "Ahmedabad"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "2.2L Diesel",
@@ -405,9 +424,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹17,00,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹16,20,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹40,000/month",
+        "actualPrice": "₹17.0 Lakh",
+        "discountedPrice": "₹16.2 Lakh",
+        "emiStarts": "₹40,000/month",
         "interest": "9.2%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -416,19 +435,22 @@
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500_2.jpg"
-      ]
+      ],
+      "model": "W8",
+      "isSold": false
     },
     {
       "id": 9,
       "name": "Nexon XMA",
       "brand": "Tata",
-      "price": "From Rs. 8,20,000",
+      "price": "From Rs. 7.9 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nexon.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2021",
         "registrationYear": "2021",
         "fuelType": "Petrol",
-        "kmDriven": "10000 km",
+        "kmDriven": "10K km",
         "transmission": "Automatic",
         "owner": "Single",
         "insuranceValidity": "01 Jan 2026",
@@ -437,13 +459,13 @@
         "location": "Coimbatore"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.2L Petrol Turbo",
@@ -457,9 +479,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹8,20,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹7,90,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹18,500/month",
+        "actualPrice": "₹8.2 Lakh",
+        "discountedPrice": "₹7.9 Lakh",
+        "emiStarts": "₹18,500/month",
         "interest": "8.9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -467,19 +489,22 @@
       "description": "Compact SUV with modern features and safety.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nexon.jpg"
-      ]
+      ],
+      "model": "XMA",
+      "isSold": false
     },
     {
       "id": 10,
       "name": "Verna SX",
       "brand": "Hyundai",
-      "price": "From Rs. 9,50,000",
+      "price": "From Rs. 9.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
+      "isActive": true,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Diesel",
-        "kmDriven": "35000 km",
+        "kmDriven": "35K km",
         "transmission": "Manual",
         "owner": "Second",
         "insuranceValidity": "15 Dec 2024",
@@ -488,13 +513,13 @@
         "location": "Nagpur"
       },
       "report": {
-        "coreStructure": true,
+        "coreStructure": false,
         "odometerTampered": false,
         "flooded": false,
-        "engine": true,
-        "drivetrain": true,
-        "body": true,
-        "mechanical": true
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
       },
       "specs": {
         "engine": "1.6L Diesel",
@@ -508,10 +533,10 @@
         ]
       },
       "finance": {
-        "actualPrice": "ÃÂ¢ÃÂÃÂ¹9,50,000",
-        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹9,00,000",
-        "emiStarts": "ÃÂ¢ÃÂÃÂ¹22,000/month",
-        "interest": "9%",
+        "actualPrice": "₹9.5 Lakh",
+        "discountedPrice": "₹9.0 Lakh",
+        "emiStarts": "₹22,000/month",
+        "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
       },
@@ -519,7 +544,9 @@
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna2.jpg"
-      ]
+      ],
+      "model": "SX",
+      "isSold": false
     }
   ]
 }
