@@ -1,4 +1,59 @@
 {
   "cars": [
+    {
+      "id": 1,
+      "name": "Fortuner X",
+      "brand": "Toyota",
+      "model": "Fortuner X 2025",
+      "price": "From Rs.2450000 Lakh",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
+      "isActive": true,
+      "isSold": false,
+      "overview": {
+        "makeYear": "2019",
+        "registrationYear": "2019",
+        "fuelType": "Petrol",
+        "kmDriven": "45000K km",
+        "transmission": "Manual",
+        "owner": "Single",
+        "insuranceValidity": "12 Dec 2025",
+        "insuranceType": "Third Party",
+        "rto": "Mumbai",
+        "location": "Mumbai"
+      },
+      "report": {
+        "coreStructure": false,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
+      },
+      "specs": {
+        "engine": "2.8L Diesel",
+        "transmission": "Manual",
+        "mileage": "14 km/l",
+        "seating": "7-Seater",
+        "features": [
+          "Sunroof",
+          "Bluetooth Connectivity",
+          "Backup Camera"
+        ]
+      },
+      "finance": {
+        "actualPrice": "₹2500000 Lakh",
+        "discountedPrice": "₹2450000 Lakh",
+        "emiStarts": "",
+        "interest": "",
+        "loanOffer": "",
+        "insuranceIncluded": true
+      },
+      "description": "Excellent condition with full service history.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
+      ]
+    }
   ]
 }
