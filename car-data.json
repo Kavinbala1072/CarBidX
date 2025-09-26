@@ -7,13 +7,13 @@
       "model": "Fortuner X 2025",
       "price": "From Rs.2450000 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
-      "isActive": false,
-      "isSold": true,
+      "isActive": true,
+      "isSold": false,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Petrol",
-        "kmDriven": "45000K km",
+        "kmDriven": "45000 km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "12 Dec 2025",
@@ -35,24 +35,220 @@
         "transmission": "Manual",
         "mileage": "14 km/l",
         "seating": "7-Seater",
-        "features": [
-          "Sunroof",
-          "Bluetooth Connectivity",
-          "Backup Camera"
-        ]
+        "features": ["Sunroof", "Bluetooth Connectivity", "Backup Camera"]
       },
       "finance": {
         "actualPrice": "2500000",
         "discountedPrice": "2450000",
-        "emiStarts": "",
-        "interest": "",
-        "loanOffer": "",
+        "emiStarts": "₹45,000/mo",
+        "interest": "9%",
+        "loanOffer": "Available",
         "insuranceIncluded": true
       },
       "description": "Excellent condition with full service history.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "X5 M Sport",
+      "brand": "BMW",
+      "model": "BMW X5 2023",
+      "price": "From Rs.7800000 Lakh",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW%20X5.avif",
+      "isActive": true,
+      "isSold": true,
+      "overview": {
+        "makeYear": "2023",
+        "registrationYear": "2023",
+        "fuelType": "Diesel",
+        "kmDriven": "15000 km",
+        "transmission": "Automatic",
+        "owner": "First",
+        "insuranceValidity": "30 Sep 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "Delhi",
+        "location": "Delhi"
+      },
+      "report": {
+        "coreStructure": false,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
+      },
+      "specs": {
+        "engine": "3.0L Diesel",
+        "transmission": "Automatic",
+        "mileage": "11 km/l",
+        "seating": "5-Seater",
+        "features": ["Panoramic Roof", "360 Camera", "Wireless Apple CarPlay"]
+      },
+      "finance": {
+        "actualPrice": "8000000",
+        "discountedPrice": "7800000",
+        "emiStarts": "₹1,20,000/mo",
+        "interest": "8.5%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Top-end model, showroom condition.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW%20X5.avif"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Swift VXi",
+      "brand": "Maruti Suzuki",
+      "model": "Swift 2022",
+      "price": "From Rs.615000 Lakh",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
+      "isActive": true,
+      "isSold": false,
+      "overview": {
+        "makeYear": "2022",
+        "registrationYear": "2022",
+        "fuelType": "Petrol",
+        "kmDriven": "18000 km",
+        "transmission": "Manual",
+        "owner": "Single",
+        "insuranceValidity": "15 Nov 2024",
+        "insuranceType": "Comprehensive",
+        "rto": "Chennai",
+        "location": "Chennai"
+      },
+      "report": {
+        "coreStructure": false,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
+      },
+      "specs": {
+        "engine": "1.2L Petrol",
+        "transmission": "Manual",
+        "mileage": "21 km/l",
+        "seating": "5-Seater",
+        "features": ["Touchscreen", "Dual Airbags", "ABS with EBD"]
+      },
+      "finance": {
+        "actualPrice": "650000",
+        "discountedPrice": "615000",
+        "emiStarts": "₹10,000/mo",
+        "interest": "10%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Low mileage and fuel efficient.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Creta SX",
+      "brand": "Hyundai",
+      "model": "Creta SX 2021",
+      "price": "From Rs.1350000 Lakh",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta.jpg",
+      "isActive": true,
+      "isSold": false,
+      "overview": {
+        "makeYear": "2021",
+        "registrationYear": "2021",
+        "fuelType": "Diesel",
+        "kmDriven": "30000 km",
+        "transmission": "Automatic",
+        "owner": "First",
+        "insuranceValidity": "30 Mar 2026",
+        "insuranceType": "Comprehensive",
+        "rto": "Pune",
+        "location": "Pune"
+      },
+      "report": {
+        "coreStructure": false,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
+      },
+      "specs": {
+        "engine": "1.5L Diesel",
+        "transmission": "Automatic",
+        "mileage": "19 km/l",
+        "seating": "5-Seater",
+        "features": ["Sunroof", "Auto AC", "Cruise Control"]
+      },
+      "finance": {
+        "actualPrice": "1400000",
+        "discountedPrice": "1350000",
+        "emiStarts": "₹23,000/mo",
+        "interest": "9%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Family SUV with sunroof and automatic transmission.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Creta.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "City ZX",
+      "brand": "Honda",
+      "model": "City ZX 2020",
+      "price": "From Rs.950000 Lakh",
+      "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City.jpg",
+      "isActive": true,
+      "isSold": false,
+      "overview": {
+        "makeYear": "2020",
+        "registrationYear": "2020",
+        "fuelType": "Petrol",
+        "kmDriven": "40000 km",
+        "transmission": "CVT",
+        "owner": "Single",
+        "insuranceValidity": "01 Feb 2025",
+        "insuranceType": "Comprehensive",
+        "rto": "Bangalore",
+        "location": "Bangalore"
+      },
+      "report": {
+        "coreStructure": false,
+        "odometerTampered": false,
+        "flooded": false,
+        "engine": false,
+        "drivetrain": false,
+        "body": false,
+        "mechanical": false
+      },
+      "specs": {
+        "engine": "1.5L i-VTEC",
+        "transmission": "Automatic",
+        "mileage": "17 km/l",
+        "seating": "5-Seater",
+        "features": ["LED Headlamps", "Rear AC Vents", "Android Auto"]
+      },
+      "finance": {
+        "actualPrice": "1000000",
+        "discountedPrice": "950000",
+        "emiStarts": "₹16,000/mo",
+        "interest": "8.5%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Spacious sedan with smooth CVT.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/City.jpg"
       ]
     }
   ]
