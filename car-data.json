@@ -42,8 +42,8 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹2500000 Lakh",
-        "discountedPrice": "₹2450000 Lakh",
+        "actualPrice": "2500000",
+        "discountedPrice": "2450000",
         "emiStarts": "",
         "interest": "",
         "loanOffer": "",
