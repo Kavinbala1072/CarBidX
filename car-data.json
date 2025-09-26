@@ -4,14 +4,16 @@
       "id": 1,
       "name": "Fortuner X",
       "brand": "Toyota",
-      "price": "From Rs.25 Lakh",
+      "model": "231",
+      "price": "From Rs.2500000 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
       "isActive": false,
+      "isSold": true,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Diesel",
-        "kmDriven": "45K km",
+        "kmDriven": "45000K km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "12 Dec 2025",
@@ -40,20 +42,18 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹25.0 Lakh",
-        "discountedPrice": "₹25.0 Lakh",
-        "emiStarts": "₹55,000/month",
-        "interest": "10.0%",
-        "loanOffer": "Available",
+        "actualPrice": "₹2500000 Lakh",
+        "discountedPrice": "₹2500000 Lakh",
+        "emiStarts": "",
+        "interest": "",
+        "loanOffer": "",
         "insuranceIncluded": true
       },
       "description": "Excellent condition with full service history.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
-      ],
-      "model": "Fortuner 231",
-      "isSold": true
+      ]
     },
     {
       "id": 2,
@@ -95,9 +95,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹7.0 Lakh",
-        "discountedPrice": "₹6.5 Lakh",
-        "emiStarts": "₹15,000/month",
+        "actualPrice": "â¹7.0 Lakh",
+        "discountedPrice": "â¹6.5 Lakh",
+        "emiStarts": "â¹15,000/month",
         "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -150,9 +150,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹11.0 Lakh",
-        "discountedPrice": "₹10.5 Lakh",
-        "emiStarts": "₹27,000/month",
+        "actualPrice": "â¹11.0 Lakh",
+        "discountedPrice": "â¹10.5 Lakh",
+        "emiStarts": "â¹27,000/month",
         "interest": "8.5%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -206,9 +206,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹14.5 Lakh",
-        "discountedPrice": "₹13.8 Lakh",
-        "emiStarts": "₹35,000/month",
+        "actualPrice": "â¹14.5 Lakh",
+        "discountedPrice": "â¹13.8 Lakh",
+        "emiStarts": "â¹35,000/month",
         "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -261,9 +261,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹8.5 Lakh",
-        "discountedPrice": "₹8.0 Lakh",
-        "emiStarts": "₹18,000/month",
+        "actualPrice": "â¹8.5 Lakh",
+        "discountedPrice": "â¹8.0 Lakh",
+        "emiStarts": "â¹18,000/month",
         "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -316,9 +316,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹10.0 Lakh",
-        "discountedPrice": "₹9.5 Lakh",
-        "emiStarts": "₹23,000/month",
+        "actualPrice": "â¹10.0 Lakh",
+        "discountedPrice": "â¹9.5 Lakh",
+        "emiStarts": "â¹23,000/month",
         "interest": "9.8%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -370,9 +370,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹7.5 Lakh",
-        "discountedPrice": "₹7.0 Lakh",
-        "emiStarts": "₹16,000/month",
+        "actualPrice": "â¹7.5 Lakh",
+        "discountedPrice": "â¹7.0 Lakh",
+        "emiStarts": "â¹16,000/month",
         "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -424,9 +424,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹17.0 Lakh",
-        "discountedPrice": "₹16.2 Lakh",
-        "emiStarts": "₹40,000/month",
+        "actualPrice": "â¹17.0 Lakh",
+        "discountedPrice": "â¹16.2 Lakh",
+        "emiStarts": "â¹40,000/month",
         "interest": "9.2%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -479,9 +479,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹8.2 Lakh",
-        "discountedPrice": "₹7.9 Lakh",
-        "emiStarts": "₹18,500/month",
+        "actualPrice": "â¹8.2 Lakh",
+        "discountedPrice": "â¹7.9 Lakh",
+        "emiStarts": "â¹18,500/month",
         "interest": "8.9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -533,9 +533,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹9.5 Lakh",
-        "discountedPrice": "₹9.0 Lakh",
-        "emiStarts": "₹22,000/month",
+        "actualPrice": "â¹9.5 Lakh",
+        "discountedPrice": "â¹9.0 Lakh",
+        "emiStarts": "â¹22,000/month",
         "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
