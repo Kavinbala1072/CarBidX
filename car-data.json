@@ -4,16 +4,13 @@
       "id": 1,
       "name": "Fortuner X",
       "brand": "Toyota",
-      "model": "231",
-      "price": "From Rs.2500000 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
       "isActive": false,
-      "isSold": true,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
         "fuelType": "Diesel",
-        "kmDriven": "45000K km",
+        "kmDriven": "45K km",
         "transmission": "Manual",
         "owner": "Single",
         "insuranceValidity": "12 Dec 2025",
@@ -42,24 +39,25 @@
         ]
       },
       "finance": {
-        "actualPrice": "₹2500000 Lakh",
-        "discountedPrice": "₹2500000 Lakh",
-        "emiStarts": "",
-        "interest": "",
-        "loanOffer": "",
+        "actualPriceRupees": 2500000,
+        "discountedPriceRupees": 2500000,
+        "emiStarts": "₹55,000/month",
+        "interest": "10.0%",
+        "loanOffer": "Available",
         "insuranceIncluded": true
       },
       "description": "Excellent condition with full service history.",
       "images": [
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
-      ]
+      ],
+      "model": "Fortuner 231",
+      "isSold": true
     },
     {
       "id": 2,
       "name": "Swift ZXI",
       "brand": "Maruti Suzuki",
-      "price": "From Rs. 6.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Swift.jpg",
       "isActive": true,
       "overview": {
@@ -95,9 +93,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹7.0 Lakh",
-        "discountedPrice": "â¹6.5 Lakh",
-        "emiStarts": "â¹15,000/month",
+        "actualPriceRupees": 700000,
+        "discountedPriceRupees": 650000,
+        "emiStarts": "₹15,000/month",
         "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -114,7 +112,6 @@
       "id": 3,
       "name": "City ZX",
       "brand": "Honda",
-      "price": "From Rs. 10.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Honda%20Civic%20Sedan.jfif",
       "isActive": true,
       "overview": {
@@ -150,9 +147,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹11.0 Lakh",
-        "discountedPrice": "â¹10.5 Lakh",
-        "emiStarts": "â¹27,000/month",
+        "actualPriceRupees": 1100000,
+        "discountedPriceRupees": 1050000,
+        "emiStarts": "₹27,000/month",
         "interest": "8.5%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -170,7 +167,6 @@
       "id": 4,
       "name": "Creta SX",
       "brand": "Hyundai",
-      "price": "From Rs. 13.8 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Hyundai Creta.png",
       "isActive": true,
       "overview": {
@@ -206,9 +202,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹14.5 Lakh",
-        "discountedPrice": "â¹13.8 Lakh",
-        "emiStarts": "â¹35,000/month",
+        "actualPriceRupees": 1450000,
+        "discountedPriceRupees": 1380000,
+        "emiStarts": "₹35,000/month",
         "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -225,7 +221,6 @@
       "id": 5,
       "name": "Baleno RS",
       "brand": "Maruti Suzuki",
-      "price": "From Rs. 8.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nissan_Sylphy_B18.jpg",
       "isActive": true,
       "overview": {
@@ -261,9 +256,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹8.5 Lakh",
-        "discountedPrice": "â¹8.0 Lakh",
-        "emiStarts": "â¹18,000/month",
+        "actualPriceRupees": 850000,
+        "discountedPriceRupees": 800000,
+        "emiStarts": "₹18,000/month",
         "interest": "10.0%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -280,7 +275,6 @@
       "id": 6,
       "name": "EcoSport Titanium",
       "brand": "Ford",
-      "price": "From Rs. 9.5 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/EcoSport.jpg",
       "isActive": true,
       "overview": {
@@ -316,9 +310,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹10.0 Lakh",
-        "discountedPrice": "â¹9.5 Lakh",
-        "emiStarts": "â¹23,000/month",
+        "actualPriceRupees": 1000000,
+        "discountedPriceRupees": 950000,
+        "emiStarts": "₹23,000/month",
         "interest": "9.8%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -334,7 +328,6 @@
       "id": 7,
       "name": "Altroz Premium",
       "brand": "Tata",
-      "price": "From Rs. 7.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Altroz.jpg",
       "isActive": true,
       "overview": {
@@ -370,9 +363,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹7.5 Lakh",
-        "discountedPrice": "â¹7.0 Lakh",
-        "emiStarts": "â¹16,000/month",
+        "actualPriceRupees": 750000,
+        "discountedPriceRupees": 700000,
+        "emiStarts": "₹16,000/month",
         "interest": "9.0%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -388,7 +381,6 @@
       "id": 8,
       "name": "XUV500 W8",
       "brand": "Mahindra",
-      "price": "From Rs. 16.2 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/XUV500.jpg",
       "isActive": true,
       "overview": {
@@ -424,9 +416,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹17.0 Lakh",
-        "discountedPrice": "â¹16.2 Lakh",
-        "emiStarts": "â¹40,000/month",
+        "actualPriceRupees": 1700000,
+        "discountedPriceRupees": 1620000,
+        "emiStarts": "₹40,000/month",
         "interest": "9.2%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -443,7 +435,6 @@
       "id": 9,
       "name": "Nexon XMA",
       "brand": "Tata",
-      "price": "From Rs. 7.9 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Nexon.jpg",
       "isActive": true,
       "overview": {
@@ -479,9 +470,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "â¹8.2 Lakh",
-        "discountedPrice": "â¹7.9 Lakh",
-        "emiStarts": "â¹18,500/month",
+        "actualPriceRupees": 820000,
+        "discountedPriceRupees": 790000,
+        "emiStarts": "₹18,500/month",
         "interest": "8.9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -497,7 +488,6 @@
       "id": 10,
       "name": "Verna SX",
       "brand": "Hyundai",
-      "price": "From Rs. 9.0 Lakh",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
       "isActive": true,
       "overview": {
@@ -522,31 +512,4 @@
         "mechanical": false
       },
       "specs": {
-        "engine": "1.6L Diesel",
-        "transmission": "Manual",
-        "mileage": "20 km/l",
-        "seating": "5-Seater",
-        "features": [
-          "LED Headlamps",
-          "Push Button Start",
-          "Rear Parking Camera"
-        ]
-      },
-      "finance": {
-        "actualPrice": "â¹9.5 Lakh",
-        "discountedPrice": "â¹9.0 Lakh",
-        "emiStarts": "â¹22,000/month",
-        "interest": "9.0%",
-        "loanOffer": "Available",
-        "insuranceIncluded": true
-      },
-      "description": "Smooth handling diesel sedan with safety features.",
-      "images": [
-        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
-        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna2.jpg"
-      ],
-      "model": "SX",
-      "isSold": false
-    }
-  ]
-}
+        "engine":
