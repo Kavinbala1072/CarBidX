@@ -512,4 +512,31 @@
         "mechanical": false
       },
       "specs": {
-        "engine":
+        "engine": "1.6L Diesel",
+        "transmission": "Manual",
+        "mileage": "20 km/l",
+        "seating": "5-Seater",
+        "features": [
+          "LED Headlamps",
+          "Push Button Start",
+          "Rear Parking Camera"
+        ]
+      },
+      "finance": {
+        "actualPriceRupees": 950000,
+        "discountedPriceRupees": 900000,
+        "emiStarts": "₹22,000/month",
+        "interest": "9.0%",
+        "loanOffer": "Available",
+        "insuranceIncluded": true
+      },
+      "description": "Smooth handling diesel sedan with safety features.",
+      "images": [
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna.jpg",
+        "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Verna2.jpg"
+      ],
+      "model": "SX",
+      "isSold": false
+    }
+  ]
+}
