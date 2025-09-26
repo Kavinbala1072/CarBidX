@@ -6,7 +6,7 @@
       "brand": "Toyota",
       "price": "From Rs.2500000",
       "image": "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
-      "isActive": true,
+      "isActive": false,
       "overview": {
         "makeYear": "2019",
         "registrationYear": "2019",
@@ -52,8 +52,8 @@
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/Fortuner.jpg",
         "https://raw.githubusercontent.com/Kavinbala1072/CarBidX/main/Cars%20Image/BMW X5.avif"
       ],
-      "model": "Fortuner X 2025",
-      "isSold": false
+      "model": "231",
+      "isSold": true
     },
     {
       "id": 2,
@@ -94,9 +94,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹7,00,000",
-        "discountedPrice": "Ã¢ÂÂ¹6,50,000",
-        "emiStarts": "Ã¢ÂÂ¹15,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹7,00,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹6,50,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹15,000/month",
         "interest": "10%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -146,9 +146,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹11,00,000",
-        "discountedPrice": "Ã¢ÂÂ¹10,50,000",
-        "emiStarts": "Ã¢ÂÂ¹27,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹11,00,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹10,50,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹27,000/month",
         "interest": "8.5%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -199,9 +199,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹14,50,000",
-        "discountedPrice": "Ã¢ÂÂ¹13,80,000",
-        "emiStarts": "Ã¢ÂÂ¹35,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹14,50,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹13,80,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹35,000/month",
         "interest": "9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -251,9 +251,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹8,50,000",
-        "discountedPrice": "Ã¢ÂÂ¹8,00,000",
-        "emiStarts": "Ã¢ÂÂ¹18,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹8,50,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹8,00,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹18,000/month",
         "interest": "10%",
         "loanOffer": "Available",
         "insuranceIncluded": false
@@ -303,9 +303,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹10,00,000",
-        "discountedPrice": "Ã¢ÂÂ¹9,50,000",
-        "emiStarts": "Ã¢ÂÂ¹23,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹10,00,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹9,50,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹23,000/month",
         "interest": "9.8%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -354,9 +354,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹7,50,000",
-        "discountedPrice": "Ã¢ÂÂ¹7,00,000",
-        "emiStarts": "Ã¢ÂÂ¹16,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹7,50,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹7,00,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹16,000/month",
         "interest": "9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -405,9 +405,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹17,00,000",
-        "discountedPrice": "Ã¢ÂÂ¹16,20,000",
-        "emiStarts": "Ã¢ÂÂ¹40,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹17,00,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹16,20,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹40,000/month",
         "interest": "9.2%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -457,9 +457,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹8,20,000",
-        "discountedPrice": "Ã¢ÂÂ¹7,90,000",
-        "emiStarts": "Ã¢ÂÂ¹18,500/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹8,20,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹7,90,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹18,500/month",
         "interest": "8.9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
@@ -508,9 +508,9 @@
         ]
       },
       "finance": {
-        "actualPrice": "Ã¢ÂÂ¹9,50,000",
-        "discountedPrice": "Ã¢ÂÂ¹9,00,000",
-        "emiStarts": "Ã¢ÂÂ¹22,000/month",
+        "actualPrice": "ÃÂ¢ÃÂÃÂ¹9,50,000",
+        "discountedPrice": "ÃÂ¢ÃÂÃÂ¹9,00,000",
+        "emiStarts": "ÃÂ¢ÃÂÃÂ¹22,000/month",
         "interest": "9%",
         "loanOffer": "Available",
         "insuranceIncluded": true
