@@ -47,6 +47,16 @@
       "Customer_Pincode": "",
       "Customer_Phone_No": "9043671305",
       "role": "client"
+    },
+    {
+      "Customer_Name": "Kavin ",
+      "Customer_Email": "kavin@example.com",
+      "Customer_Password": "kavin123",
+      "ConfirmPassword": "kavin123",
+      "Customer_Address": "",
+      "Customer_Pincode": "",
+      "Customer_Phone_No": "9597720998",
+      "role": "client"
     }
   ]
 }
